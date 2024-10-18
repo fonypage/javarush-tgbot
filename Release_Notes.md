@@ -5,3 +5,7 @@
 
 * added stub telegram bot
 * added StpringBoot skeleton project
+
+## 0.2.0-SNAPSHOT
+
+* implemented Command pattern for handling TelegramBot commands
